@@ -3,10 +3,10 @@ body {margin: 30px}
 body {width: 460px}
 p {font font-family: "helvetica", sans-serif}
 * {font color: black}
-h1 {font-size: 20px;}
-h2 {font-size: 18px}
+h1 {font-size: 20px}
+h2 {font-size: 18px; color: #800000;}
 p {font-size: 16px}
 a:link {color: black}
 a:visited {color: black;}
-a:hover {text-decoration: underline;}
 img {display: block; margin: 10px, auto}
+
